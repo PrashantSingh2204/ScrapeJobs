@@ -3,12 +3,14 @@ scrape jobs
 
 To run the Flask application provided in the code, follow these steps:
 
-Prerequisites
+# Prerequisites
 Install Python: Ensure Python is installed on your system. You can download it from python.org.
 Install Required Libraries: Install the necessary Python libraries (Flask, requests, and beautifulsoup4) using pip.
+
 Steps to Run the Program
-Open a Terminal:
-cd c:\Users\repo
+#Open a Terminal:
+
+cd  c:\Users\repo
 
 On Windows, you can use Command Prompt, PowerShell, or the terminal in Visual Studio Code.
 Navigate to the File Directory: Use the cd command to navigate to the directory where app.py is located:
